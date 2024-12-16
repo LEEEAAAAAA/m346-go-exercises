@@ -17,6 +17,6 @@ func main() {
 	fmt.Printf("Geburtsdatum: %d.%d.%d\n", dayOfBirth, monthOfBirth, yearOfBirth)
 	fmt.Printf("Anzahl Geschwister: %d\n", numberOfSiblings)
 	fmt.Printf("Grösse (in Metern): %.2f\n", heightInMeters)
-	fmt.Printf("Sternzeichen: %s\n", zodiacSign)
+	fmt.Printf("Sternzeichen: %s\n", zodiacSign) 
 }
 
